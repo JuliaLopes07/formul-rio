@@ -11,5 +11,19 @@ form input{
   background: gray;
   font-size: 25px;
            }
+table{
+  background: red;
+     }
+
+thead{
+background: #555555;
+color: white;
+font-weight: bold;
+     }
+
+td, th{
+border: 1px solid #000000;
+border-color: black;
+}
 
     
